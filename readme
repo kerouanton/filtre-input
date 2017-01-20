@@ -1,0 +1,17 @@
+Ce projet est destiné à tout radioamateur intéressé dans la construction et la mise au point d'un amplificateur 
+à base de triode Russe GS35b.
+Il s'agit d'une série de filtres en PI commutés (par le biais d'un étage logique genre Arduino ou simplement à l'aide 
+d'un commutateur à galette), et qui dispose par défaut de 10 cellules -une par bande.
+Le pcb a été conçu pour pouvoir être coupé dans le sens de sa largeur, 
+- soit pour n'installer que 6 filtres correspondant aux 6 bandes WARC "old school" (version traditionnelle du filtre TU6B de WD7S)
+voir http://home.earthlink.net/~wd7s/TU-6B.htm
+- soit, s'il est coupé par son exact milieu, pour que chaque moitié soit montée en "piggy back" afin de pouvoir loger 
+le filtre 10 éléments dans un boitier plus court
+
+Nous recommandons vivement que ce filtre soit installé directement dans le boitier de l'amplificateur
+plutôt qu'à l'extérieur. 
+
+Le filtre le plus proche de la triode doit si possible être le filtre de la bande la plus haute (6 mètres ou 10 mètres)
+Il est également recommandé de monter la capa shunt de ce filtre directement sur la cathode de la lampe et non à son emplacement prévu
+sur le pcb.
+
