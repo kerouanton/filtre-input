@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Marco\Documents\Kicad\Projets\Filtre-Input\filtre-In.sch</source>
+    <date>15/01/2017 20:50:28</date>
+    <tool>Eeschema 4.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>filtre-In.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="L3">
+      <value>10m-b</value>
+      <footprint>T80_60_V:T60_80_V</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586DF95A</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586DF9F7</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586DFA3E</tstamp>
+    </comp>
+    <comp ref="L4">
+      <value>10m-a</value>
+      <footprint>T80_60_V:T60_80_V</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E0FC1</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E0FC7</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E0FCD</tstamp>
+    </comp>
+    <comp ref="L5">
+      <value>12m</value>
+      <footprint>T80_60_V:T60_80_V</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E12A4</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E12AA</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E12B0</tstamp>
+    </comp>
+    <comp ref="L6">
+      <value>15m</value>
+      <footprint>T80_60_V:T60_80_V</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E12F3</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E12F9</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E12FF</tstamp>
+    </comp>
+    <comp ref="L7">
+      <value>17m</value>
+      <footprint>T80_60_V:T60_80_V</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1716</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E171C</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1722</tstamp>
+    </comp>
+    <comp ref="L8">
+      <value>20m</value>
+      <footprint>T80_60_V:T60_80_V</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1765</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E176B</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1771</tstamp>
+    </comp>
+    <comp ref="L9">
+      <value>30m</value>
+      <footprint>T80_60_V:T60_80_V</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E17B4</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E17BA</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E17C0</tstamp>
+    </comp>
+    <comp ref="L10">
+      <value>40m</value>
+      <footprint>T80_60_V:T60_80_V</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1803</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1809</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E180F</tstamp>
+    </comp>
+    <comp ref="L11">
+      <value>80m</value>
+      <footprint>T80_60_V:T60_80_V</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1A1E</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1A24</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1A2A</tstamp>
+    </comp>
+    <comp ref="L12">
+      <value>160m</value>
+      <footprint>T80_60_V:T60_80_V</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1A6D</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1A73</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>C</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E1A79</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10n/1kV</value>
+      <footprint>Silver_Mica:silver_mica</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E55A8</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>1mH</value>
+      <footprint>Wurt_1mH:Wurt_1mH</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E6F34</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>1mH</value>
+      <footprint>Wurt_1mH:Wurt_1mH</footprint>
+      <libsource lib="device" part="L_Core_Ferrite_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E8F00</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586E9EE2</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>BNC Input</value>
+      <footprint>Coax_2mm:coax_2mm</footprint>
+      <libsource lib="conn" part="BNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586EABF1</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>BNC Output</value>
+      <footprint>Coax_2mm:coax_2mm</footprint>
+      <libsource lib="conn" part="BNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586EB4BE</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>CONN_01X12</value>
+      <footprint>Connectors_Molex:Molex_KK-6410-12_12x2.54mm_Straight</footprint>
+      <libsource lib="conn" part="CONN_01X12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586EF99F</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>500-1/4W</value>
+      <footprint>Resistors_ThroughHole:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>586F8D1B</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A2901</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A5F09</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A6864</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A6E2C</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A6EE7</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A6F9F</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A7052</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A70FA</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A71A1</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A7253</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A73C8</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A7859</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A7DBE</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A7EA0</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A7F55</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A8015</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A80AA</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A8158</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A8589</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>diode</value>
+      <footprint>Diodes_SMD:D_SMB-SMC_Universal_Handsoldering</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587A864D</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587AEA46</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587AFFF3</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587B0082</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587B0122</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587B01AD</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587B02CB</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587B0754</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587B07E0</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587B0865</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587B0A3D</tstamp>
+    </comp>
+    <comp ref="RL20">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587B8B26</tstamp>
+    </comp>
+    <comp ref="RL1">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BC5D5</tstamp>
+    </comp>
+    <comp ref="RL3">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BC663</tstamp>
+    </comp>
+    <comp ref="RL5">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BC70C</tstamp>
+    </comp>
+    <comp ref="RL7">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BC7BC</tstamp>
+    </comp>
+    <comp ref="RL9">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BC865</tstamp>
+    </comp>
+    <comp ref="RL11">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BC9FF</tstamp>
+    </comp>
+    <comp ref="RL13">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BCA96</tstamp>
+    </comp>
+    <comp ref="RL15">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BCB3A</tstamp>
+    </comp>
+    <comp ref="RL17">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BCBCF</tstamp>
+    </comp>
+    <comp ref="RL19">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BCC77</tstamp>
+    </comp>
+    <comp ref="RL2">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BE922</tstamp>
+    </comp>
+    <comp ref="RL4">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BEC3C</tstamp>
+    </comp>
+    <comp ref="RL6">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BECED</tstamp>
+    </comp>
+    <comp ref="RL8">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BED83</tstamp>
+    </comp>
+    <comp ref="RL10">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BEE3C</tstamp>
+    </comp>
+    <comp ref="RL12">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BEEF8</tstamp>
+    </comp>
+    <comp ref="RL14">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BF019</tstamp>
+    </comp>
+    <comp ref="RL16">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BF2B7</tstamp>
+    </comp>
+    <comp ref="RL18">
+      <value>Omron_G5LE</value>
+      <footprint>Omron_G5LE:Omron_G5LE</footprint>
+      <libsource lib="Omron_G5LE" part="Omron_G5LE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BF38C</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>100nF 100V</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587C2222</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>CONN_01X01</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="conn" part="CONN_01X01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BAD97</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>CONN_01X01</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="conn" part="CONN_01X01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BB577</tstamp>
+    </comp>
+    <comp ref="P7">
+      <value>CONN_01X01</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="conn" part="CONN_01X01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BB680</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>CONN_01X01</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="conn" part="CONN_01X01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587BB68D</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="conn" part="BNC">
+      <footprints>
+        <fp>BNC_*</fp>
+        <fp>bnc</fp>
+        <fp>bnc-*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">BNC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X01">
+      <description>Connector, single row, 01x01</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X01</fp>
+        <fp>Pin_Header_Angled_1X01</fp>
+        <fp>Socket_Strip_Straight_1X01</fp>
+        <fp>Socket_Strip_Angled_1X01</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X12">
+      <description>Connector, single row, 01x12</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X12</fp>
+        <fp>Pin_Header_Angled_1X12</fp>
+        <fp>Socket_Strip_Straight_1X12</fp>
+        <fp>Socket_Strip_Angled_1X12</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X12</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D_Schottky_Small">
+      <description>Schottky diode, small symbol</description>
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="L_Core_Ferrite_Small">
+      <description>Inductor with ferrite core, small symbol</description>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Core_Ferrite_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Omron_G5LE" part="Omron_G5LE">
+      <description>FINDER 40.51, Single Pole Relay, 5mm Pitch, 10A</description>
+      <docs>http://gfinder.findernet.com//assets/Series/5/S40EN.pdf</docs>
+      <fields>
+        <field name="Reference">RL</field>
+        <field name="Value">Omron_G5LE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="Omron_G5LE">
+      <uri>C:\Users\Marco\Documents\Kicad\libraries\Omron_G5LE\Omron_G5LE.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="L2" pin="2"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C30" pin="1"/>
+      <node ref="C28" pin="1"/>
+      <node ref="C27" pin="1"/>
+      <node ref="C26" pin="1"/>
+      <node ref="C25" pin="1"/>
+      <node ref="C24" pin="1"/>
+      <node ref="C23" pin="1"/>
+      <node ref="C31" pin="1"/>
+      <node ref="RL13" pin="4"/>
+      <node ref="P6" pin="1"/>
+      <node ref="RL18" pin="4"/>
+      <node ref="RL17" pin="4"/>
+      <node ref="RL11" pin="4"/>
+      <node ref="RL8" pin="4"/>
+      <node ref="RL6" pin="4"/>
+      <node ref="RL4" pin="4"/>
+      <node ref="C22" pin="2"/>
+      <node ref="RL2" pin="4"/>
+      <node ref="C21" pin="2"/>
+      <node ref="RL19" pin="4"/>
+      <node ref="P5" pin="1"/>
+      <node ref="RL16" pin="4"/>
+      <node ref="RL14" pin="4"/>
+      <node ref="RL12" pin="4"/>
+      <node ref="C8" pin="2"/>
+      <node ref="RL10" pin="4"/>
+      <node ref="C29" pin="1"/>
+      <node ref="P7" pin="1"/>
+      <node ref="P4" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="RL7" pin="4"/>
+      <node ref="RL9" pin="4"/>
+      <node ref="RL1" pin="4"/>
+      <node ref="RL5" pin="4"/>
+      <node ref="C7" pin="2"/>
+      <node ref="RL3" pin="4"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="RL15" pin="4"/>
+      <node ref="RL20" pin="4"/>
+      <node ref="C4" pin="1"/>
+      <node ref="P2" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="P1" pin="2"/>
+      <node ref="P3" pin="1"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="L1" pin="1"/>
+      <node ref="C32" pin="1"/>
+      <node ref="C18" pin="2"/>
+      <node ref="C17" pin="2"/>
+    </net>
+    <net code="3" name="+5V">
+      <node ref="RL20" pin="5"/>
+      <node ref="RL7" pin="5"/>
+      <node ref="RL9" pin="5"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="RL15" pin="5"/>
+      <node ref="RL17" pin="5"/>
+      <node ref="D7" pin="1"/>
+      <node ref="RL18" pin="5"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="RL10" pin="5"/>
+      <node ref="D20" pin="1"/>
+      <node ref="RL6" pin="5"/>
+      <node ref="RL4" pin="5"/>
+      <node ref="RL19" pin="5"/>
+      <node ref="RL2" pin="5"/>
+      <node ref="RL8" pin="5"/>
+      <node ref="RL11" pin="5"/>
+      <node ref="RL13" pin="5"/>
+      <node ref="P3" pin="12"/>
+      <node ref="RL5" pin="5"/>
+      <node ref="RL12" pin="5"/>
+      <node ref="RL3" pin="5"/>
+      <node ref="RL14" pin="5"/>
+      <node ref="RL1" pin="5"/>
+      <node ref="RL16" pin="5"/>
+    </net>
+    <net code="4" name="Net-(C33-Pad1)">
+      <node ref="RL8" pin="3"/>
+      <node ref="RL6" pin="3"/>
+      <node ref="RL12" pin="3"/>
+      <node ref="RL2" pin="3"/>
+      <node ref="RL4" pin="3"/>
+      <node ref="RL14" pin="3"/>
+      <node ref="RL10" pin="3"/>
+      <node ref="RL16" pin="3"/>
+      <node ref="RL18" pin="3"/>
+      <node ref="RL20" pin="3"/>
+      <node ref="C33" pin="1"/>
+      <node ref="L2" pin="1"/>
+    </net>
+    <net code="5" name="Net-(C30-Pad2)">
+      <node ref="RL15" pin="2"/>
+      <node ref="D16" pin="2"/>
+      <node ref="P3" pin="4"/>
+      <node ref="D15" pin="2"/>
+      <node ref="RL16" pin="2"/>
+      <node ref="C30" pin="2"/>
+    </net>
+    <net code="6" name="Net-(C1-Pad1)">
+      <node ref="L1" pin="2"/>
+      <node ref="RL1" pin="3"/>
+      <node ref="RL9" pin="3"/>
+      <node ref="RL7" pin="3"/>
+      <node ref="RL5" pin="3"/>
+      <node ref="RL3" pin="3"/>
+      <node ref="C1" pin="1"/>
+      <node ref="RL13" pin="3"/>
+      <node ref="RL15" pin="3"/>
+      <node ref="RL17" pin="3"/>
+      <node ref="RL19" pin="3"/>
+      <node ref="RL11" pin="3"/>
+    </net>
+    <net code="7" name="Net-(C33-Pad2)">
+      <node ref="C33" pin="2"/>
+      <node ref="P2" pin="1"/>
+    </net>
+    <net code="8" name="Net-(C27-Pad2)">
+      <node ref="D9" pin="2"/>
+      <node ref="D10" pin="2"/>
+      <node ref="RL9" pin="2"/>
+      <node ref="P3" pin="7"/>
+      <node ref="C27" pin="2"/>
+      <node ref="RL10" pin="2"/>
+    </net>
+    <net code="9" name="Net-(C28-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="D12" pin="2"/>
+      <node ref="P3" pin="6"/>
+      <node ref="RL12" pin="2"/>
+      <node ref="RL11" pin="2"/>
+    </net>
+    <net code="10" name="Net-(C29-Pad2)">
+      <node ref="P3" pin="5"/>
+      <node ref="RL14" pin="2"/>
+      <node ref="C29" pin="2"/>
+      <node ref="RL13" pin="2"/>
+      <node ref="D13" pin="2"/>
+      <node ref="D14" pin="2"/>
+    </net>
+    <net code="11" name="Net-(C23-Pad2)">
+      <node ref="C23" pin="2"/>
+      <node ref="RL1" pin="2"/>
+      <node ref="P3" pin="11"/>
+      <node ref="D2" pin="2"/>
+      <node ref="RL2" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="12" name="Net-(C24-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="RL4" pin="2"/>
+      <node ref="P3" pin="10"/>
+      <node ref="RL3" pin="2"/>
+      <node ref="C24" pin="2"/>
+    </net>
+    <net code="13" name="Net-(C31-Pad2)">
+      <node ref="P3" pin="3"/>
+      <node ref="RL18" pin="2"/>
+      <node ref="RL17" pin="2"/>
+      <node ref="D17" pin="2"/>
+      <node ref="D18" pin="2"/>
+      <node ref="C31" pin="2"/>
+    </net>
+    <net code="14" name="Net-(C25-Pad2)">
+      <node ref="C25" pin="2"/>
+      <node ref="P3" pin="9"/>
+      <node ref="RL5" pin="2"/>
+      <node ref="D5" pin="2"/>
+      <node ref="RL6" pin="2"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="15" name="Net-(C26-Pad2)">
+      <node ref="RL7" pin="2"/>
+      <node ref="D8" pin="2"/>
+      <node ref="RL8" pin="2"/>
+      <node ref="P3" pin="8"/>
+      <node ref="C26" pin="2"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="16" name="Net-(C32-Pad2)">
+      <node ref="D20" pin="2"/>
+      <node ref="D19" pin="2"/>
+      <node ref="RL19" pin="2"/>
+      <node ref="P3" pin="2"/>
+      <node ref="C32" pin="2"/>
+      <node ref="RL20" pin="2"/>
+    </net>
+    <net code="17" name="Net-(C12-Pad1)">
+      <node ref="L7" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="RL10" pin="1"/>
+    </net>
+    <net code="18" name="Net-(C11-Pad1)">
+      <node ref="RL9" pin="1"/>
+      <node ref="L7" pin="2"/>
+      <node ref="C11" pin="1"/>
+    </net>
+    <net code="19" name="Net-(C10-Pad1)">
+      <node ref="L6" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="RL8" pin="1"/>
+    </net>
+    <net code="20" name="Net-(C9-Pad1)">
+      <node ref="RL7" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="L6" pin="2"/>
+    </net>
+    <net code="21" name="Net-(C14-Pad1)">
+      <node ref="RL12" pin="1"/>
+      <node ref="C14" pin="1"/>
+      <node ref="L8" pin="1"/>
+    </net>
+    <net code="22" name="Net-(C13-Pad1)">
+      <node ref="RL11" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="L8" pin="2"/>
+    </net>
+    <net code="23" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1"/>
+      <node ref="L4" pin="1"/>
+      <node ref="RL4" pin="1"/>
+    </net>
+    <net code="24" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1"/>
+      <node ref="RL3" pin="1"/>
+      <node ref="L4" pin="2"/>
+    </net>
+    <net code="25" name="Net-(C3-Pad1)">
+      <node ref="L3" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="RL2" pin="1"/>
+    </net>
+    <net code="26" name="Net-(C2-Pad1)">
+      <node ref="L3" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="RL1" pin="1"/>
+    </net>
+    <net code="27" name="Net-(C8-Pad1)">
+      <node ref="L5" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="RL6" pin="1"/>
+    </net>
+    <net code="28" name="Net-(C7-Pad1)">
+      <node ref="L5" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="RL5" pin="1"/>
+    </net>
+    <net code="29" name="Net-(C22-Pad1)">
+      <node ref="C22" pin="1"/>
+      <node ref="RL20" pin="1"/>
+      <node ref="L12" pin="1"/>
+    </net>
+    <net code="30" name="Net-(C21-Pad1)">
+      <node ref="RL19" pin="1"/>
+      <node ref="C21" pin="1"/>
+      <node ref="L12" pin="2"/>
+    </net>
+    <net code="31" name="Net-(C1-Pad2)">
+      <node ref="P1" pin="1"/>
+      <node ref="C1" pin="2"/>
+    </net>
+    <net code="32" name="Net-(C18-Pad1)">
+      <node ref="L10" pin="1"/>
+      <node ref="C18" pin="1"/>
+      <node ref="RL16" pin="1"/>
+    </net>
+    <net code="33" name="Net-(C17-Pad1)">
+      <node ref="L10" pin="2"/>
+      <node ref="C17" pin="1"/>
+      <node ref="RL15" pin="1"/>
+    </net>
+    <net code="34" name="Net-(C15-Pad1)">
+      <node ref="L9" pin="2"/>
+      <node ref="C15" pin="1"/>
+      <node ref="RL13" pin="1"/>
+    </net>
+    <net code="35" name="Net-(C16-Pad1)">
+      <node ref="RL14" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="L9" pin="1"/>
+    </net>
+    <net code="36" name="Net-(C20-Pad1)">
+      <node ref="C20" pin="1"/>
+      <node ref="L11" pin="1"/>
+      <node ref="RL18" pin="1"/>
+    </net>
+    <net code="37" name="Net-(C19-Pad1)">
+      <node ref="L11" pin="2"/>
+      <node ref="RL17" pin="1"/>
+      <node ref="C19" pin="1"/>
+    </net>
+  </nets>
+</export>

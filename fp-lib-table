@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Omron_G5LE)(type KiCad)(uri C:\Users\Marco\Documents\Kicad\modules\Omron_G5LE.pretty)(options "")(descr ""))
+  (lib (name Silver_Mica)(type KiCad)(uri C:\Users\Marco\Documents\Kicad\modules\Silver_Mica.pretty)(options "")(descr ""))
+  (lib (name Coax_2mm)(type KiCad)(uri C:\Users\Marco\Documents\Kicad\modules\Coax_2mm.pretty)(options "")(descr ""))
+  (lib (name T80_60_V)(type KiCad)(uri C:\Users\Marco\Documents\Kicad\modules\T80_60_V.pretty)(options "")(descr ""))
+  (lib (name Wurt_1mH)(type KiCad)(uri C:\Users\Marco\Documents\Kicad\modules\Wurt_1mH.pretty)(options "")(descr ""))
+)
