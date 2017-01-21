@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/Marco/Documents/Kicad/Projets/Filtre-Input/filtre-In.sch)
-    (date "19/01/2017 14:17:58")
+    (date "21/01/2017 18:25:49")
     (tool "Eeschema 4.0.5")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -714,11 +714,7 @@
     (libpart (lib device) (part C)
       (description "Unpolarized capacitor")
       (footprints
-        (fp C?)
-        (fp C_????_*)
-        (fp C_????)
-        (fp SMD*_c)
-        (fp Capacitor*))
+        (fp C_*))
       (fields
         (field (name Reference) C)
         (field (name Value) C))
@@ -775,11 +771,7 @@
     (libpart (lib device) (part C_Small)
       (description "Unpolarized capacitor")
       (footprints
-        (fp C?)
-        (fp C_????_*)
-        (fp C_????)
-        (fp SMD*_c)
-        (fp Capacitor*))
+        (fp C_*))
       (fields
         (field (name Reference) C)
         (field (name Value) C_Small))
@@ -789,8 +781,7 @@
     (libpart (lib device) (part D_Schottky_Small)
       (description "Schottky diode, small symbol")
       (footprints
-        (fp Diode_*)
-        (fp D-*)
+        (fp TO-???*)
         (fp *SingleDiode)
         (fp *_Diode_*)
         (fp *SingleDiode*)
@@ -805,7 +796,9 @@
       (description "Inductor with ferrite core, small symbol")
       (footprints
         (fp Choke_*)
-        (fp *Coil*))
+        (fp *Coil*)
+        (fp Inductor_*)
+        (fp L_*))
       (fields
         (field (name Reference) L)
         (field (name Value) L_Core_Ferrite_Small))
@@ -828,7 +821,7 @@
       (description Resistor)
       (footprints
         (fp R_*)
-        (fp Resistor_*))
+        (fp R_*))
       (fields
         (field (name Reference) R)
         (field (name Value) R))
@@ -838,10 +831,10 @@
   (libraries
     (library (logical Omron_G5LE)
       (uri C:\Users\Marco\Documents\Kicad\libraries\Omron_G5LE\Omron_G5LE.lib))
-    (library (logical device)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
     (library (logical conn)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib")))
+      (uri C:\Users\Marco\Documents\Kicad\share\library\conn.lib))
+    (library (logical device)
+      (uri C:\Users\Marco\Documents\Kicad\share\library\device.lib)))
   (nets
     (net (code 1) (name "Net-(C4-Pad2)")
       (node (ref R1) (pin 1))

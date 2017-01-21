@@ -1,4 +1,4 @@
-update=20/01/2017 10:54:31
+update=21/01/2017 18:24:26
 version=1
 last_client=kicad
 [pcbnew]
@@ -39,8 +39,8 @@ LabSize=60
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=power
-LibName2=device
-LibName3=conn
-LibName4=regul
-LibName5=C:/Users/Marco/Documents/Kicad/libraries/Omron_G5LE/Omron_G5LE
+LibName1=C:/Users/Marco/Documents/Kicad/libraries/Omron_G5LE/Omron_G5LE
+LibName2=C:/Users/Marco/Documents/Kicad/share/library/power
+LibName3=C:/Users/Marco/Documents/Kicad/share/library/conn
+LibName4=C:/Users/Marco/Documents/Kicad/share/library/device
+LibName5=C:/Users/Marco/Documents/Kicad/share/library/regul
