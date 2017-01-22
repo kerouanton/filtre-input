@@ -1,4 +1,4 @@
-update=21/01/2017 18:24:26
+update=22/01/2017 10:03:40
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,7 +37,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=
+LibDir=C:/Users/Marco/Documents/Kicad/share/library;C:/Users/Marco/Documents/Kicad/share/template
 [eeschema/libraries]
 LibName1=C:/Users/Marco/Documents/Kicad/libraries/Omron_G5LE/Omron_G5LE
 LibName2=C:/Users/Marco/Documents/Kicad/share/library/power
