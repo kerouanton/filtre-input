@@ -15,3 +15,5 @@ Le filtre le plus proche de la triode doit si possible être le filtre de la band
 Il est également recommandé de monter la capa shunt de ce filtre directement sur la cathode de la lampe et non à son emplacement prévu
 sur le pcb.
 
+Pour plus de renseignements, se reporter au Wiki associé
+https://github.com/F6ITU/filtre-input/wiki
