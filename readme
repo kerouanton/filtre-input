@@ -1,21 +1,21 @@
-Ce projet est destiné à tout radioamateur intéressé dans la construction et la mise au point d'un amplificateur 
-à base de triode Russe GS35b.
-Il s'agit d'une série de filtres en PI commutés (par le biais d'un étage logique genre Arduino ou simplement à l'aide 
-d'un commutateur à galette), et qui dispose par défaut de 10 cellules -une par bande.
-Le pcb a été conçu pour pouvoir être coupé dans le sens de sa largeur, 
+Ce projet est destinÃ© Ã  tout radioamateur intÃ©ressÃ© dans la construction et la mise au point d'un amplificateur 
+Ã  base de triode Russe GS35b.
+Il s'agit d'une sÃ©rie de filtres en PI commutÃ©s (par le biais d'un Ã©tage logique genre Arduino ou simplement Ã  l'aide 
+d'un commutateur Ã  galette), et qui dispose par dÃ©faut de 10 cellules -une par bande.
+Le pcb a Ã©tÃ© conÃ§u pour pouvoir Ãªtre coupÃ© dans le sens de sa largeur, 
 - soit pour n'installer que 6 filtres correspondant aux 6 bandes WARC "old school" (version traditionnelle du filtre TU6B de WD7S)
 voir http://home.earthlink.net/~wd7s/TU-6B.htm
-- soit, s'il est coupé par son exact milieu, pour que chaque moitié soit montée en "piggy back" afin de pouvoir loger 
-le filtre 10 éléments dans un boitier plus court
+- soit, s'il est coupÃ© par son exact milieu, pour que chaque moitiÃ© soit montÃ©e en "piggy back" afin de pouvoir loger 
+le filtre 10 Ã©lÃ©ments dans un boitier plus court
 
-Nous recommandons vivement que ce filtre soit installé directement dans le boitier de l'amplificateur
-plutôt qu'à l'extérieur. 
+Nous recommandons vivement que ce filtre soit installÃ© directement dans le boitier de l'amplificateur
+plutÃ´t qu'Ã  l'extÃ©rieur. 
 
-Le filtre le plus proche de la triode doit si possible être le filtre de la bande la plus haute (6 mètres ou 10 mètres)
-Il est également recommandé de monter la capa shunt de ce filtre directement sur la cathode de la lampe et non à son emplacement prévu
+Le filtre le plus proche de la triode doit si possible Ãªtre le filtre de la bande la plus haute (6 mÃ¨tres ou 10 mÃ¨tres)
+Il est Ã©galement recommandÃ© de monter la capa shunt de ce filtre directement sur la cathode de la lampe et non Ã  son emplacement prÃ©vu
 sur le pcb.
 
-Pour plus de renseignements, se reporter au Wiki associé
+Pour plus de renseignements, se reporter au Wiki associÃ©
 https://github.com/F6ITU/filtre-input/wiki
 
 zap
